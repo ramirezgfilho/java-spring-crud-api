@@ -3,4 +3,4 @@
 Simple CRUD API using Java and Spring boot and mysql for database.
 This project was made for study purposes.
 
-Thanks
+Thanks a lot
